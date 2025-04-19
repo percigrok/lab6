@@ -18,5 +18,7 @@
 - В Word через библиотеку `python-docx`
 - В Excel через библиотеку `openpyxl`
 
+## Скриншоты работы программы
 
+![Главное окно](![image](https://github.com/user-attachments/assets/c69fdee1-43dd-4c28-9c3c-fb2363b52b0f))
 
